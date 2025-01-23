@@ -537,3 +537,45 @@ body {
     }
 
 }
+
+
+@media screen and (max-width:400px) {
+    .image-wrapper h2 {
+        position: relative;
+        font-size: 36px;
+    }
+
+    .about-section {
+        margin: 10px;
+    }
+
+    .about-content h2 {
+        font-size: 34px;
+    }
+
+    .my-work-section {
+        margin: 0px 10px;
+    }
+
+    .my-work-section h2 {
+        font-size: 34px;
+    }
+
+    .project-image {
+        font-size: 32px;
+        padding: 30px 30px;
+    }
+
+    .footer-contact-block {
+        padding: 10px;
+    }
+
+    .footer-contact-block {
+        width: 90%;
+    }
+
+    .phone,
+    .email {
+        margin-right: 10px;
+    }
+}
